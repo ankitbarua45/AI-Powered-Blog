@@ -367,10 +367,6 @@ The frontend uses Next.js 14 with the App Router. Pages are located in `src/app/
 - The backend is configured to allow requests from `http://localhost:3000` and `http://localhost:3001`
 - Update the CORS settings in `backend/main.py` if using different ports
 
-## License
-
-This project is provided as-is for educational and development purposes.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
