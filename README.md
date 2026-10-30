@@ -2,6 +2,13 @@
 
 A full-stack web application for writing, managing, and publishing blog posts with the help of artificial intelligence.
 
+## Screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00096dfe-fec9-4a47-a725-926ab36dae80" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/616d8e90-0d29-4f54-b7fa-7d966baab92b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/640c21a4-4caf-4a89-8441-abd8b6fb0144" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfb598ab-bdb2-4f3f-a2d9-b49a4353a508" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3798496-7992-4624-9978-33b6da2d8b3d" />
+
 ## Tech Stack
 
 ### Frontend
